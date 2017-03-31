@@ -1,3 +1,4 @@
 " ~/.gvimrc
-set columns=132
-set lines=64
+colorscheme slate
+set columns=150
+set lines=50

@@ -1,0 +1,8 @@
+# .bash_variables
+
+# PATH="$HOME/PATH:$PATH"
+# if [ -d "$HOME/.../bin" ]; then PATH="$PATH:$HOME/.../bin"; fi
+
+export EDITOR='vim'
+export PAGER='less -SX'
+
