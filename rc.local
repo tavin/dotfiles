@@ -1,4 +1,0 @@
-#!/bin/sh
-setkeycodes e053 97
-# echo -n elantech > /sys/bus/serio/devices/serio2/protocol
-exit 0
