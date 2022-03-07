@@ -1,0 +1,2 @@
+@reboot rm -f /etc/xdg/autostart/ubuntu-report-on-upgrade.desktop
+@reboot rm -f /etc/xdg/autostart/update-notifier.desktop
