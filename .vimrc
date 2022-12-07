@@ -15,6 +15,11 @@ set tabstop=8
 set textwidth=0
 
 syntax on
+let g:zenburn_alternate_Visual=1
+let g:zenburn_disable_Label_underline=1
+colorscheme zenburn
+hi Normal ctermbg=none
+let groovy_minlines=100
 
 noremap <F1> zz
 noremap <F2> :set hls! \| echo "hls = ".&hls<CR>
