@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Weet ik veel
+Icon=starred
+Type=Application
+Exec=/bin/sh -c "systemctl --user start tiddlywiki.service && xdg-open http://127.0.0.1:8411"
